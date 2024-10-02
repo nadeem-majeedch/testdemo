@@ -1,0 +1,61 @@
+Public private key generation: (Windows)
+
+ssh-keygen -t rsa			ssh-keygen -t Ed25519
+
+type .\.ssh\id_rsa.pub
+notepad .\.ssh\id_rsa.pub			
+
+C:\Users\Nadeem\.ssh
+
+Random Art:
+ssh-keygen -lv -f .\.ssh\id_rsa
+
+
+
+
+Get-Content C:\Users\Nadeem\.ssh\id_rsa.pub
+***********************************************
+
+git clone 
+
+git branch
+git push -u origin your-branch-name
+git push
+
+
+git version
+git --exec-path
+
+git help
+git help git
+git help tutorial
+git help everyday
+
+git config --global user.name "Nadeem Majeed"
+git config --global user.email "nadeem.majeed@pucit.edu.pk"
+git config --global core.editor "code --wait"
+git config --global color.ui true
+git config --global --list
+
+cd
+cd Desktop/gittest
+dir /a
+git init
+
+
+code
+"Data data every where" >author.txt
+notepad.exe "myfile.txt"
+
+
+git status
+git add myfile.txt
+git status
+
+
+
+
+
+
+
+
